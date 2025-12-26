@@ -28,4 +28,5 @@ Mentor junior team members and promote knowledge sharing within the support team
 
 Communicate effectively with stakeholders by providing timely status updates and resolution reports.
 
-P.S => Currently enrolled in AWS Certified Cloud Practitioner (CLF-C02) and have completed hands-on learning in IAM, EC2, EBS, and S3 services.
+Currently enrolled in AWS Certified Cloud Practitioner (CLF-C02) and have completed hands-on learning in IAM, EC2, EBS, and S3 services.
+
