@@ -1,0 +1,27 @@
+Serve as the first point of contact for internal teams regarding application availability and performance issues.
+
+Provide L1 and L2 support for applications and IT systems, ensuring timely incident resolution and minimal downtime.
+
+Troubleshoot and resolve technical problems related to Linux, windows environments where the application is deployed.
+
+Monitor system health, performance, and alerts to proactively identify and resolve potential issues.
+
+Lead and coordinate support activities, ensuring adherence to ITIL best practices and service-level agreements (SLAs).
+
+Work in rotational shifts to provide 24x7 production support coverage.
+
+Perform incident, problem, and change management, including root cause analysis and corrective actions.
+
+Collaborate with development, QA, infrastructure, and business teams to resolve complex technical issues.
+
+Support application deployments, patching, and release activities across environments.
+
+Participate in UAT, DR drills, and production go-live activities, ensuring smooth transitions.
+
+Maintain accurate documentation including SOPs, runbooks, RCA reports, and knowledge base articles.
+
+Monitor system performance and implement preventive measures to avoid recurring issues.
+
+Mentor junior team members and promote knowledge sharing within the support team.
+
+Communicate effectively with stakeholders by providing timely status updates and resolution reports.
