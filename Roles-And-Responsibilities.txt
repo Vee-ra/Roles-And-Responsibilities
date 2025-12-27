@@ -1,4 +1,4 @@
-Serve as the first point of contact for internal teams regarding application availability and performance issues.
+Served as the first point of contact for internal teams regarding application availability and performance issues.
 
 Provide L1 and L2 support for applications and IT systems, ensuring timely incident resolution and minimal downtime.
 
@@ -29,4 +29,5 @@ Mentor junior team members and promote knowledge sharing within the support team
 Communicate effectively with stakeholders by providing timely status updates and resolution reports.
 
 Currently enrolled in AWS Certified Cloud Practitioner (CLF-C02) and have completed hands-on learning in IAM, EC2, EBS, and S3 services.
+
 
